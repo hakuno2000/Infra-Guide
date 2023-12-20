@@ -9,7 +9,7 @@ tar -C /usr -xzf go1.20.12.linux-amd64.tar.gz
 
 # Add to ~/.profile at end
 ```
-export GOROOT=/usr/bin/go
+export GOROOT=/usr/go
 export PATH=$PATH:/usr/go/bin:$HOME/go/bin
 ```
 
